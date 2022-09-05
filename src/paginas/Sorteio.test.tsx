@@ -1,5 +1,4 @@
 import { fireEvent, render, screen } from "@testing-library/react";
-import exp from "constants";
 import React from "react";
 import { RecoilRoot } from "recoil";
 import { useListaDeParticipantes } from "../state/hook/useListaDeParticipantes";
