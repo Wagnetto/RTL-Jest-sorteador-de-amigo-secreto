@@ -1,3 +1,13 @@
+# React Testing Library Intro
+
+This project was made to implement simple testing features on React using it's Testing Library and Jest.
+It's a simple app to handle your Secret Santa sorting with no papers
+
+If you want to run it, it was deployed on vercel on this [link](https://amigo-secreto-testing-lib.vercel.app/)
+
+![image](https://github.com/user-attachments/assets/f389cf8d-3f88-4fa9-a05f-ae7be3ef6fa2)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
